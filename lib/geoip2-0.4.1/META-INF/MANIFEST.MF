@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: greg
+Build-Jdk: 1.7.0_25
+Specification-Title: MaxMind GeoIP2 API
+Specification-Version: 0.4.1
+Specification-Vendor: MaxMind, Inc.
+Implementation-Title: MaxMind GeoIP2 API
+Implementation-Version: 0.4.1
+Implementation-Vendor-Id: com.maxmind.geoip2
+Implementation-Vendor: MaxMind, Inc.
+
